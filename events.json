@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free with millions of other people.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2025-01-12"
+  },
+  {
+    "name": "The Algorithms",
+    "description": "Open source resource for learning data structures and algorithms.",
+    "url": "https://github.com/TheAlgorithms",
+    "starred_at": "2025-02-08"
+  },
+  {
+    "name": "MDN Web Docs",
+    "description": "Documentation and learning resources for web developers.",
+    "url": "https://github.com/mdn/content",
+    "starred_at": "2025-03-19"
+  }
+]
